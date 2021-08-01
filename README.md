@@ -5,9 +5,13 @@ Email a link to the repository containing the solution to joseph@vpply.com when 
 
 For this project, you will use Vuejs, so you will need to have nodejs and vuejs installed on your machine.
 
+Install Nodejs: https://nodejs.org/en/download/
+
+Install Vuejs: https://v3.vuejs.org/guide/installation.html
+
 Further instructions are inside the code, follow the steps below to run the code and you will see more instructions once you open the browser.
 
-Before you start, make sure to reference the Vuejs documentation, you will find everything you need there.
+Here is the documention for vuejs to help you get started
 
 https://v3.vuejs.org/guide/introduction.html
 
@@ -20,4 +24,3 @@ npm install
 ```
 npm run serve
 ```
-
